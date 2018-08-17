@@ -1,0 +1,5 @@
+C:\Business Project\GV.ONLINE.FOOD.GUI\GV.ONLINE.FOOD.GUI.Common\bin\Debug\GV.ONLINE.FOOD.GUI.Common.dll
+C:\Business Project\GV.ONLINE.FOOD.GUI\GV.ONLINE.FOOD.GUI.Common\bin\Debug\GV.ONLINE.FOOD.GUI.Common.pdb
+C:\Business Project\GV.ONLINE.FOOD.GUI\GV.ONLINE.FOOD.GUI.Common\obj\Debug\GV.ONLINE.FOOD.GUI.Common.csprojResolveAssemblyReference.cache
+C:\Business Project\GV.ONLINE.FOOD.GUI\GV.ONLINE.FOOD.GUI.Common\obj\Debug\GV.ONLINE.FOOD.GUI.Common.dll
+C:\Business Project\GV.ONLINE.FOOD.GUI\GV.ONLINE.FOOD.GUI.Common\obj\Debug\GV.ONLINE.FOOD.GUI.Common.pdb

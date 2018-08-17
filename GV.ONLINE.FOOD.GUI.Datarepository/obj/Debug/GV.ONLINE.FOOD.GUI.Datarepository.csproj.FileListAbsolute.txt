@@ -1,0 +1,9 @@
+C:\Business Project\GV.ONLINE.FOOD.GUI\GV.ONLINE.FOOD.GUI.Datarepository\obj\Debug\GV.ONLINE.FOOD.GUI.Datarepository.csprojResolveAssemblyReference.cache
+C:\Business Project\GV.ONLINE.FOOD.GUI\GV.ONLINE.FOOD.GUI.Datarepository\bin\Debug\GV.ONLINE.FOOD.GUI.Datarepository.dll
+C:\Business Project\GV.ONLINE.FOOD.GUI\GV.ONLINE.FOOD.GUI.Datarepository\bin\Debug\GV.ONLINE.FOOD.GUI.Datarepository.pdb
+C:\Business Project\GV.ONLINE.FOOD.GUI\GV.ONLINE.FOOD.GUI.Datarepository\bin\Debug\GV.ONLINE.FOOD.GUI.Common.dll
+C:\Business Project\GV.ONLINE.FOOD.GUI\GV.ONLINE.FOOD.GUI.Datarepository\bin\Debug\GV.ONLINE.FOOD.GUI.Entities.dll
+C:\Business Project\GV.ONLINE.FOOD.GUI\GV.ONLINE.FOOD.GUI.Datarepository\bin\Debug\GV.ONLINE.FOOD.GUI.Common.pdb
+C:\Business Project\GV.ONLINE.FOOD.GUI\GV.ONLINE.FOOD.GUI.Datarepository\bin\Debug\GV.ONLINE.FOOD.GUI.Entities.pdb
+C:\Business Project\GV.ONLINE.FOOD.GUI\GV.ONLINE.FOOD.GUI.Datarepository\obj\Debug\GV.ONLINE.FOOD.GUI.Datarepository.dll
+C:\Business Project\GV.ONLINE.FOOD.GUI\GV.ONLINE.FOOD.GUI.Datarepository\obj\Debug\GV.ONLINE.FOOD.GUI.Datarepository.pdb
